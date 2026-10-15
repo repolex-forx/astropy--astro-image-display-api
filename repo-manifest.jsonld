@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/astropy/astro-image-display-api/commit/8f18e54e6eaaebb3643fa0a2ae8b40ee96828040",
       "git:hexsha": "8f18e54e6eaaebb3643fa0a2ae8b40ee96828040",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-15T21:09:28.283672+00:00"
     },
     {
       "@id": "https://repolex.ai/r/astropy/astro-image-display-api/commit/ef029047b7f90afad9cd2dd642ba0c260c9685b3",
